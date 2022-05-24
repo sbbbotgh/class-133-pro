@@ -1,0 +1,11 @@
+body{
+    background: rgb(227,41,122);
+    background: radial-gradient(circle, rgba(227,41,122,1) 0%, rgba(123,163,210,1) 100%);
+}
+
+button
+{
+    margin: 30px;
+    width: 150px;
+    border-radius: 20px !important;
+}
